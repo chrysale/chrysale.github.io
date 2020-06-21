@@ -14,3 +14,5 @@ As Lucky Luke says:
 
 > “I’m a poor, 
 > lonesome cowboy.”
+
+<img src="https://images.derstandard.at/img/2016/11/11/lucky-luke.jpg?w=750&s=83e127cb"/>
