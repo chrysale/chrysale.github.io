@@ -9,3 +9,8 @@ Luke meets many historical Western figures such as Calamity Jane, Billy the Kid,
 * chain smoker
 * captures bumbling gangsters
 * rides the smartest horse in the world
+
+As Lucky Luke says:
+
+> “I’m a poor, 
+> lonesome cowboy.”
